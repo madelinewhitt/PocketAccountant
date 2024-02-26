@@ -13,6 +13,7 @@ function App() {
               <Navbar />
               <Welcome />
             </>} />
+          {/* <Route path="/login" element={<Login />} /> */}
         </Routes>
       </main>
     </Router>
